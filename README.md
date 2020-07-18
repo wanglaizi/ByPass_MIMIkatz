@@ -12,3 +12,6 @@ xxx.exe privilege::debug sekurlsa::logonpassword
 参考如上自行替换命令参数  
 windows.exe = x64  
 linux.exe = x86  
+
+## 参考
+https://mp.weixin.qq.com/s/ZaRuK3qV9h-KGqiYT8kqqw
