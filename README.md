@@ -13,8 +13,8 @@ windows.exe = x64
 linux.exe = x86  
 
 ## 更新
-MiMikatz 版本：2.2.0 20200715  
-免杀时间：2020/7/21 21点43分  
+MiMikatz 版本：2.2.0 20200918 
+免杀时间：2020/10/23  
 
 ## 参考
 https://mp.weixin.qq.com/s/ZaRuK3qV9h-KGqiYT8kqqw
